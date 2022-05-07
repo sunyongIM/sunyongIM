@@ -1,4 +1,4 @@
-## 2021-09-13   Coding Life Start
+## 2021-09-13   Code Study Start
 
 ### Multicampus (2021-09-08~)
 
@@ -6,5 +6,6 @@
 
 #### Github 특강 (2021-09-29 ~ 2021-09-30)
 
----
+#### front-end self study (2021-12-20 ~ 2022-04-20)
 
+#### sparta coding [항해99] (2022-05-01 ~ 2022-08-12)
