@@ -11,10 +11,10 @@
 #### 🎆 Interests
 
 <div>
-<img src="https://img.shields.io/badge/UI / UX-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Visual interactions-blueviolet?style=for-the-badge"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="JPA" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
+<img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
