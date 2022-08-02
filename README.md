@@ -2,13 +2,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyongIM&show_icons=true&theme=radical)  
 
-#### 🗽 Contact
-###### imsunyong@naver.com
+- - -
 
-#### 🍽 Blog
+### 🧑 Contact
+##### 📧 imsunyong@naver.com
+##### 📱 010-7686-4325
+
+- - -
+
+### 🍽 Blog
 ##### [https://velog.io/@greyong](https://velog.io/@greyong)
 
-#### 🧱 Tech stacks
+- - -
+
+### 🧱 Tech stacks
 
 <div>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -37,11 +44,17 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-</div>  
+</div>
 
-#### 2021-09-13   Code Study Start
-#### Multicampus (2021-09-08~)
-#### AI 서비스 기반 언어 프로그래밍 (2021-09-08 ~ 2021-12-24)
-#### Github 특강 (2021-09-29 ~ 2021-09-30)
-#### front-end self study (2021-12-20 ~ 2022-04-20)
-#### sparta coding [항해99] (2022-05-01 ~ 2022-08-12)
+- - -
+
+### 📚 History
+
+
+```html
+2021-09-13   Dev Study Start
+Multicampus (2021-09-08~)
+AI 서비스 기반 언어 프로그래밍 (2021-09-08 ~ 2021-12-24)
+Github 특강 (2021-09-29 ~ 2021-09-30)
+front-end self study (2021-12-20 ~ 2022-04-20)
+sparta coding [항해99] (2022-05-01 ~ 2022-08-12)
