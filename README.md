@@ -29,7 +29,7 @@
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF4F8B?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
   <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-59666C?style=for-the-badge&logo=Swagger&logoColor=white"/>
 </div>
   
 #### 🎆 Interests
